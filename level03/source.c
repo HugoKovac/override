@@ -90,7 +90,7 @@ int __cdecl main(int argc, const char **argv, const char **envp)
   puts("***********************************");
   printf("Password:");
   __isoc99_scanf("%d", &savedregs);
-  test(savedregs, 322424845322424845);
+  test(savedregs, 322424845);
   return 0;
 }
 
