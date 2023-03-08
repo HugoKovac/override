@@ -13,3 +13,4 @@ int __cdecl __noreturn main(int argc, const char **argv, const char **envp)
 	printf(s);
 	exit(0);
 }
+
